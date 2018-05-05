@@ -1,1 +1,2 @@
 我正在学习oracle
+今天学习了oracle的安装
